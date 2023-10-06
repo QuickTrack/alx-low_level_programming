@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints information about the last digit of a randomly generated number.
+ * main - Prints info about the last digit of a randomly generated number.
  *
  * Return: Always 0.
  */
