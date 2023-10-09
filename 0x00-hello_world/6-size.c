@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Description: a C program that prints the size of various types on the computer
+ * Description:program that prints the size of various types on the computer
  * Return: 0 (success)
  */
 int main(void)
