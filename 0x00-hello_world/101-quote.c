@@ -2,7 +2,7 @@
 #include <unistd.h>
 /**
  * main-Entry point
- * Description: Write a C program that prints exactly that
+ * Description:Write a C program that prints exactly that
  * Return: 1 (succes)
  */
 int main(void)
